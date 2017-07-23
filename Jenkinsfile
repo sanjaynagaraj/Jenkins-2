@@ -11,7 +11,7 @@ stages {
  stage("first stage") {
 
  steps{
- sh 'echo "hello world" '
+ sh 'echo "hello All-Track 1" '
  }
 
    }
